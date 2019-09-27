@@ -8,15 +8,11 @@ This is the official website of the Coding Help Desk at the American Geophysical
 
 ## 📝 Description
 
-Coding is becoming an increasingly important skill for geophysicists interested in data science and Big Data. However, it can be tough to know where to start, know how to get help, and find others who are interested in developing coding skills. The Coding Help Desk is meant to be a drop-in spot where anyone can come by to ask coding questions (any programming language), learn skills to help them with their research, and connect with fellow AGU members who are passionate about coding. The Coding Help Desk will also feature a series of coding and data management demos. For more information about the Coding Help Desk at the AGU 2019 Fall Meeting, please visit: https://bit.ly/2m7gw6a.
-
-<br>
+Coding is becoming an increasingly important skill for geophysicists interested in data science and Big Data. However, it can be tough to know where to start, know how to get help, and find others who are interested in developing coding skills. The Coding Help Desk is meant to be a drop-in spot where anyone can come by to ask coding questions (any programming language), learn skills to help them with their research, and connect with fellow AGU members who are passionate about coding. The Coding Help Desk will also feature a series of coding and data management demos.
 
 ## ☎️ General Contact Information
 
 Please contact Sheila Saia at ssaia at ncsu dot edu if you have any questions, comments, or suggestions. Feel free to see our list of frequently asked questions (FAQs) below.
-
-<br>
 
 ## ⏰ Hours of Operation
 
