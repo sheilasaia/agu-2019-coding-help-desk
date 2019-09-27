@@ -26,8 +26,6 @@ Stop by to ask our volunteers for help with your code or for more information on
 | Weds, Dec 11 | 10am-12pm | TBD | TBD | # |
 | Thur, Dec 12 | 10am-12pm | TBD | TBD | # |
 
-<br>
-
 #### Demos
 
 Besides getting help at the Coding Help Desk, AGU attendees are welcome to attend short (15 minute) demonstrations (i.e., "demos") presented by their peers. This is a great way to learn about new coding tools and best practices.
@@ -37,8 +35,6 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 | Tues, Dec 10 | 12-12:15pm | TBD | TBD | TBD | # |
 | Weds, Dec 11 | 12-12:15pm | TBD | TBD | TBD | # |
 | Thur, Dec 12 | 12-12:15pm | TBD | TBD | TBD | # |
-
-<br>
 
 ## 🙌 Partners
 
@@ -50,8 +46,6 @@ The following organizations have committed to supporting the Coding Help Desk:
 * [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/)
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [Software Carpentry](https://software-carpentry.org/)
-
-<br>
 
 ## ✒️ Volunteer Sign-Up
 
@@ -68,8 +62,6 @@ The following organizations have committed to supporting the Coding Help Desk:
 | fill in: volunteer #1 first name last name | fill in: email | Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
 | fill in: volunteer #2 first name last name | fill in: email | Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
 
-<br>
-
 #### Demos Sign-Up
 
 **If you're interested in presenting a demo**, please submit a GitHub pull request with your edits to the table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred presentation time.
@@ -79,8 +71,6 @@ The following organizations have committed to supporting the Coding Help Desk:
 | Tues, Dec 10 | 12-12:15pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
 | Weds, Dec 11 | 12-12:15pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
 | Thur, Dec 12 | 12-12:15pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-
-<br>
 
 ## ❓Frequently Asked Questions
 
