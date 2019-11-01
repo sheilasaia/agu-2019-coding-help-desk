@@ -43,10 +43,10 @@ The following organizations have committed to supporting the Coding Help Desk:
 * [American Geophysical Union (AGU)](https://www.agu.org/)
 * [American Geophysical Union Ecohydrology Section](https://www.aguecohydrology.org/)
 * [American Geophysical Union Hydrology Student Section Subcommittee (H3S)](https://connect.agu.org/hydrology/students/student-subcommittee-activities)
-* [Earth Science Information Partners (ESIP)](https://www.esipfed.org/)
+* [The Carpentries](https://carpentries.org/)
+* [Earth Science Information Partners (ESIP)](https://www.esipfed.org/) - Read more about their AGU 2019 Data Help Desk [here](https://copdess.org/data-fairs/2019-data-fair-at-agu-fall-meeting/).
 * [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/)
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
-* [Software Carpentry](https://software-carpentry.org/)
 
 ## ✒️ Volunteer Sign-Up
 
