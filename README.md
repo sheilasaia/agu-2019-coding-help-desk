@@ -43,6 +43,7 @@ The following organizations have committed to supporting the Coding Help Desk:
 * [American Geophysical Union (AGU)](https://www.agu.org/)
 * [American Geophysical Union Ecohydrology Section](https://www.aguecohydrology.org/)
 * [American Geophysical Union Hydrology Student Section Subcommittee (H3S)](https://connect.agu.org/hydrology/students/student-subcommittee-activities)
+* [Earth Science Information Partners (ESIP)](https://www.esipfed.org/)
 * [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/)
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [Software Carpentry](https://software-carpentry.org/)
@@ -51,7 +52,7 @@ The following organizations have committed to supporting the Coding Help Desk:
 
 #### Coding Help Desk Sign-Up
 
-**If you're interested in volunteering with the Coding Help Desk**, please submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred volunteering time(s).
+**If you're interested in volunteering with the Coding Help Desk**, please submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred volunteering time(s). We're looking for volunteers that can stay the whole two hours.
 
 | Name | Email | Time | Coding Proficiency |
 | --- | --- | --- | --- |
@@ -64,13 +65,17 @@ The following organizations have committed to supporting the Coding Help Desk:
 
 #### Demos Sign-Up
 
-**If you're interested in presenting a demo**, please submit a GitHub pull request with your edits to the table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred presentation time.
+**If you're interested in presenting a demo**, please submit a GitHub pull request with your edits to the table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. Demos are scheduled to be 10 minutes long with 5 minutes for questions and transition. However, we're flexible and can coordinate with you if you'd like a longer time slot. Please email Sheila at ssaia at ncsu dot edu and we can work out the details. *If you're not comfortable submitting a pull request*, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred presentation time.
 
 | Day | Time | Location | Presenter | Email | Demo Title |
 | --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 12-12:15pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Weds, Dec 11 | 12-12:15pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Thur, Dec 12 | 12-12:15pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+| Tues, Dec 10 | 9:30-9:40pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+| Tues, Dec 10 | 9:45-9:55pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+| Weds, Dec 11 | 9:30-9:40pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+| Weds, Dec 11 | 9:45-9:55pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+| Thur, Dec 12 | 12-12:10pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+| Thur, Dec 12 | 12:15-12:30pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+
 
 ## ❓Frequently Asked Questions
 
@@ -92,4 +97,7 @@ Please send an email to Sheila at ssaia at ncsu dot edu and let her know that yo
 6. I've never heard of this event at the AGU Fall Meeting. How did the Coding Help Desk get started?  <br> <br>
 The AGU 2018 Fall Meeting in Washington, DC marked the first year of the Coding Help Desk. Sheila Saia and Sam Zipper started it in hopes of building a tight-knit coding community within AGU. Coding skills are becoming increasingly important for geophysicists in the age of "Big Data". Connecting with other AGU members, whether they are beginner or expert coders, can help advance coding training and effective use of coding tools for geoscience applications.
 
-7. (Anything we forgot? Please submit a GitHub pull request or email Sheila at ssaia at ncsu dot edu to add another FAQ.)
+7. I'm a coding whiz but could really use some data management and data sharing help. Can you help me? <br> <br>
+Some of us might be comfortable answering these questions but a better bet is for you to visit our friends over at [Earth Science Information Partners (ESIP)](https://www.esipfed.org/). ESIP is hosting a Data Help Desk at AGU 2019! They'll offer one-on-one data management help as well as data management and literacy workshops that are open to all AGU attendees. To learn more about the Data Help Desk, please visit [this site](https://copdess.org/data-fairs/2019-data-fair-at-agu-fall-meeting/).
+
+8. (Anything we forgot? Please submit a GitHub pull request or email Sheila at ssaia at ncsu dot edu to add another FAQ.)
