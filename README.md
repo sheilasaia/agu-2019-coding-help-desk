@@ -32,9 +32,12 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 
 | Day | Time | Location | Presenter | Demo Title | Number of Attendees |
 | --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 12-12:15pm | TBD | TBD | TBD | # |
-| Weds, Dec 11 | 12-12:15pm | TBD | TBD | TBD | # |
-| Thur, Dec 12 | 12-12:15pm | TBD | TBD | TBD | # |
+| Tues, Dec 10 | 9:30-9:40am | TBD | TBD | TBD | # |
+| Tues, Dec 10 | 9:45-9:55am | TBD | TBD | TBD | # |
+| Weds, Dec 11 | 9:30-9:40am | TBD | TBD | TBD | # |
+| Weds, Dec 11 | 9:45-9:55am | TBD | TBD | TBD | # |
+| Thur, Dec 12 | 12-12:10pm | TBD | TBD | TBD | # |
+| Thur, Dec 12 | 12:15-12:25pm | TBD | TBD | TBD | # |
 
 ## 🙌 Partners
 
