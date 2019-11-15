@@ -4,6 +4,8 @@ This is the official website of the Coding Help Desk at the American Geophysical
 
 [*add logo here*]
 
+**FOR VOLUNTEER SIGN UP, PLEASE SCROLL DOWN**
+
 <br>
 
 ## 📝 Description
@@ -56,7 +58,7 @@ The following organizations have committed to supporting the Coding Help Desk:
 
 #### Coding Help Desk Sign-Up
 
-**If you're interested in volunteering with the Coding Help Desk**, please submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred volunteering time(s). We're looking for volunteers that can stay the whole two hours.
+**If you're interested in volunteering with the Coding Help Desk**, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring.
 
 | Name | Email | Time | Coding Proficiency |
 | --- | --- | --- | --- |
@@ -69,7 +71,7 @@ The following organizations have committed to supporting the Coding Help Desk:
 
 #### Demos Sign-Up
 
-**If you're interested in presenting a demo**, please submit a GitHub pull request with your edits to the table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. Demos are scheduled to be 10 minutes long with 5 minutes for questions and transition. However, we're flexible and can coordinate with you if you'd like a longer time slot. Please email Sheila at ssaia at ncsu dot edu and we can work out the details. *If you're not comfortable submitting a pull request*, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred presentation time.
+**If you're interested in presenting a demo**, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. Demos are scheduled to be 10 minutes long with 5 minutes for questions and transition. However, we're flexible and can coordinate with you if you'd like a longer time slot.
 
 | Day | Time | Location | Presenter | Email | Demo Title |
 | --- | --- | --- | --- | --- | --- |
@@ -90,10 +92,10 @@ Yes, please come by during our hours of operation (see schedule above) and we wi
 We (the volunteers) also ❤️coding and are always looking to make new friends in the coding community. Please stop by and chat about coding amazingness with us.
 
 3. How do I sign-up to volunteer as a tutor at the Coding Help Desk? <br> <br>
-If you're interested in volunteering, please submit a GitHub pull request to add yourself to the sign-up above. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred volunteering time(s).
+If you're interested in volunteering, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring.
 
 4. How do I sign-up to present a demo with the Coding Help Desk? <br> <br>
-If you're interested in presenting, please submit a GitHub pull request by filling in the table above. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. If you're not comfortable submitting a pull request, please email Sheila at ssaia at ncsu dot edu with this same information as well as your preferred presentation time.
+If you're interested in presenting, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. Demos are scheduled to be 10 minutes long with 5 minutes for questions and transition. However, we're flexible and can coordinate with you if you'd like a longer time slot.
 
 5. I'm interested in helping to spread the word about the Coding Help Desk. How can I help with this? <br> <br>
 Please send an email to Sheila at ssaia at ncsu dot edu and let her know that you're interested in spreading the word about the Coding Help Desk. She'll send along a flier that you can share with others
