@@ -26,11 +26,13 @@ Stop by to ask our volunteers for help with your code or for more information on
 | --- | --- | --- | --- | --- |
 | Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
 | Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
+| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESPI) | TBD | # |
 | Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
+| Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESPI) | TBD | # |
 
 #### Demos
 
-Besides getting help at the Coding Help Desk, AGU attendees are welcome to attend short (15 minute) demonstrations (i.e., "demos") presented by their peers. This is a great way to learn about new coding tools and best practices.
+Besides getting help at the Coding Help Desk, AGU attendees are welcome to attend short (10 minute) demonstrations (i.e., "demos") presented by their peers. This is a great way to learn about new coding tools and best practices.
 
 | Day | Time | Location | Presenter | Demo Title | Number of Attendees |
 | --- | --- | --- | --- | --- | --- |
@@ -62,12 +64,16 @@ The following organizations have committed to supporting the Coding Help Desk:
 
 | Name | Email | Time | Coding Proficiency |
 | --- | --- | --- | --- |
-| fill in: volunteer #1 first name last name | fill in: email | Dec 10, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Dec 10, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #1 first name last name | fill in: email | Dec 11, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Dec 11, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #1 first name last name | fill in: email | Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #1 first name last name | fill in: email | Tues. Dec 10, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #2 first name last name | fill in: email | Tues. Dec 10, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #1 first name last name | fill in: email | Wed. Dec 11, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #2 first name last name | fill in: email | Wed. Dec 11, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #1 first name last name | fill in: email | Wed. Dec 11, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #2 first name last name | fill in: email | Wed. Dec 11, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #1 first name last name | fill in: email | Thur. Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #2 first name last name | fill in: email | Thur. Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #1 first name last name | fill in: email | Thur. Dec 12, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+| fill in: volunteer #2 first name last name | fill in: email | Thur. Dec 12, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
 
 #### Demos Sign-Up
 
