@@ -22,9 +22,9 @@ Stop by to ask our volunteers for help with your code or for more information on
 
 | Day | Time | Location | Coding Help Available | Number of Attendees |
 | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 10am-12pm | TBD | TBD | # |
-| Weds, Dec 11 | 10am-12pm | TBD | TBD | # |
-| Thur, Dec 12 | 10am-12pm | TBD | TBD | # |
+| Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
+| Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
+| Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
 
 #### Demos
 
@@ -32,12 +32,12 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 
 | Day | Time | Location | Presenter | Demo Title | Number of Attendees |
 | --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 9:30-9:40am | TBD | TBD | TBD | # |
-| Tues, Dec 10 | 9:45-9:55am | TBD | TBD | TBD | # |
-| Weds, Dec 11 | 9:30-9:40am | TBD | TBD | TBD | # |
-| Weds, Dec 11 | 9:45-9:55am | TBD | TBD | TBD | # |
-| Thur, Dec 12 | 12-12:10pm | TBD | TBD | TBD | # |
-| Thur, Dec 12 | 12:15-12:25pm | TBD | TBD | TBD | # |
+| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Tues, Dec 10 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Weds, Dec 11 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Thur, Dec 12 | 12-12:10pm | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Thur, Dec 12 | 12:15-12:25pm | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
 
 ## 🙌 Partners
 
@@ -49,7 +49,8 @@ The following organizations have committed to supporting the Coding Help Desk:
 * [The Carpentries](https://carpentries.org/)
 * [Earth Science Information Partners (ESIP)](https://www.esipfed.org/) - Read more about their AGU 2019 Data Help Desk [here](https://copdess.org/data-fairs/2019-data-fair-at-agu-fall-meeting/).
 * [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/)
-* [MATLAB](https://www.mathworks.com/products/matlab.html)
+* [MathWorks](https://www.mathworks.com/products/matlab.html)
+* [rOpenSci](https://ropensci.org/)
 
 ## ✒️ Volunteer Sign-Up
 
