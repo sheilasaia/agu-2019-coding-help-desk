@@ -26,9 +26,9 @@ Stop by to ask our volunteers for help with your code or for more information on
 | --- | --- | --- | --- | --- |
 | Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
 | Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
-| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESPI) | TBD | # |
+| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | TBD | # |
 | Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
-| Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESPI) | TBD | # |
+| Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | TBD | # |
 
 #### Demos
 
@@ -51,7 +51,7 @@ The following organizations have committed to supporting the Coding Help Desk:
 * [American Geophysical Union Ecohydrology Section](https://www.aguecohydrology.org/)
 * [American Geophysical Union Hydrology Student Section Subcommittee (H3S)](https://connect.agu.org/hydrology/students/student-subcommittee-activities)
 * [The Carpentries](https://carpentries.org/)
-* [Earth Science Information Partners (ESIP)](https://www.esipfed.org/) - Read more about their AGU 2019 Data Help Desk at  Exhibitor Hall Booth #1329 [here](https://copdess.org/data-fairs/2019-data-fair-at-agu-fall-meeting/).
+* [Earth Science Information Partners (ESIP)](https://www.esipfed.org/) - Read more about their AGU 2019 Data Help Desk at  Exhibitor Hall Booth #1329 [here]( http://bit.ly/2019DataFAIRatAG).
 * [Environmental Data Initiative (EDI)](https://environmentaldatainitiative.org/)
 * [MathWorks](https://www.mathworks.com/products/matlab.html) AGU 2019 Exhibitor Hall Booth #1325
 * [rOpenSci](https://ropensci.org/)
