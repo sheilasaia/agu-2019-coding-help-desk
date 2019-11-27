@@ -2,7 +2,9 @@
 
 This is the official website of the Coding Help Desk at the American Geophysical Union (AGU) 2019 Fall Meeting.
 
-[*add logo here*]
+![](/img/agu_help_desk_hex_design_small.png)
+
+
 
 **FOR VOLUNTEER SIGN UP, PLEASE SCROLL DOWN**
 
