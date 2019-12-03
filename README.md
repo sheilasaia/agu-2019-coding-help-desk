@@ -25,7 +25,7 @@ Stop by to ask our volunteers for help with your code or for more information on
 | --- | --- | --- | --- | --- | --- |
 | Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | Sam Zipper, Maria Elena Orduña Alegria, Sheila Saia | GAMA, Netlogo, Python, R | # |
 | Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | Sharad Kumar Gupta, Justine Neville, Colin Smith | MATLAB, Python, R | # |
-| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Emine Fidan, Heather Kropp, TBD | GIS, R, Remote Sensing | # |
+| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Emine Fidan, Heather Kropp, TBD | R | # |
 | Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | Joe Shannon, Chinmay Deval, Xiangmin (Sam) | BASH, Python, R | # |
 | Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Kathe Todd-Brown, Lise Montefiore, Sadeghi Tabas | MATLAB, R | # |
 
