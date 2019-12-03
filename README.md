@@ -1,6 +1,6 @@
 # 💻 Coding Help Desk
 
-This is the official website of the Coding Help Desk at the American Geophysical Union (AGU) 2019 Fall Meeting.
+This is the official website of the Coding Help Desk at the American Geophysical Union (AGU) 2019 Fall Meeting. You can tag this event using #codinghelpdesk and #agu19 on all the social medias.
 
 ![](/img/agu_help_desk_hex_design_small.png)
 
