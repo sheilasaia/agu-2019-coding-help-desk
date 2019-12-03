@@ -5,9 +5,6 @@ This is the official website of the Coding Help Desk at the American Geophysical
 ![](/img/agu_help_desk_hex_design_small.png)
 
 
-
-**FOR VOLUNTEER SIGN UP, PLEASE SCROLL DOWN**
-
 <br>
 
 ## 📝 Description
@@ -24,13 +21,13 @@ Please contact Sheila Saia at ssaia at ncsu dot edu if you have any questions, c
 
 Stop by to ask our volunteers for help with your code or for more information on coding best practices.
 
-| Day | Time | Location | Coding Help Available | Number of Attendees |
-| --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
-| Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
-| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | TBD | # |
-| Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | TBD | # |
-| Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | TBD | # |
+| Day | Time | Location | Volunteers | Coding Help Available | Number of Attendees |
+| --- | --- | --- | --- | --- | --- |
+| Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | Sam Zipper, Maria Elena Orduña Alegria, Sheila Saia | GAMA, Netlogo, Python, R | # |
+| Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | Sharad Kumar Gupta, Justine Neville, Colin Smith | MATLAB, Python, R | # |
+| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Emine Fidan, Heather Kropp, Dr. Kartic Bera | GIS, R, Remote Sensing | # |
+| Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | Joe Shannon, Chinmay Deval, Xiangmin (Sam) | BASH, Python, R | # |
+| Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Kathe Todd-Brown, Lise Montefiore, Sadeghi Tabas | MATLAB, R | # |
 
 #### Demos
 
@@ -38,11 +35,11 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 
 | Day | Time | Location | Presenter | Demo Title | Number of Attendees |
 | --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
-| Tues, Dec 10 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
-| Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Sam Zipper | Code Organization | # |
+| Tues, Dec 10 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Lise Montefiore | Basic GIS in R | # |
+| Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Natalie Nelson | TBD | # |
 | Weds, Dec 11 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
-| Thur, Dec 12 | 12-12:10pm | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Thur, Dec 12 | 12-12:10pm | Career Center Theater Moscone South LL 5-6 | Aycan Hacioglu | Creating Interactive Documents with MATLAB Live Scripts | # |
 | Thur, Dec 12 | 12:15-12:25pm | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
 
 ## 🙌 Partners
@@ -62,33 +59,11 @@ The following organizations have committed to supporting the Coding Help Desk:
 
 #### Coding Help Desk Sign-Up
 
-**If you're interested in volunteering with the Coding Help Desk**, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring.
-
-| Name | Email | Time | Coding Proficiency |
-| --- | --- | --- | --- |
-| fill in: volunteer #1 first name last name | fill in: email | Tues. Dec 10, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Tues. Dec 10, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #1 first name last name | fill in: email | Wed. Dec 11, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Wed. Dec 11, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #1 first name last name | fill in: email | Wed. Dec 11, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Wed. Dec 11, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #1 first name last name | fill in: email | Thur. Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Thur. Dec 12, 10am-12pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #1 first name last name | fill in: email | Thur. Dec 12, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
-| fill in: volunteer #2 first name last name | fill in: email | Thur. Dec 12, 1pm-2:30pm | fill in: R, Python, MATLAB, C++, SQL, ... |
+**If you're interested in volunteering with the Coding Help Desk**, please fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9). The form will close on December 1, 2019 but you're welcome to stop by during code desk hours to help if you didn't sign-up before that date.
 
 #### Demos Sign-Up
 
-**If you're interested in presenting a demo**, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. Demos are scheduled to be 10 minutes long with 5 minutes for questions and transition. However, we're flexible and can coordinate with you if you'd like a longer time slot.
-
-| Day | Time | Location | Presenter | Email | Demo Title |
-| --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 9:30-9:40pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Tues, Dec 10 | 9:45-9:55pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Weds, Dec 11 | 9:30-9:40pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Weds, Dec 11 | 9:45-9:55pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Thur, Dec 12 | 12-12:10pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
-| Thur, Dec 12 | 12:15-12:30pm | TBD | fill in: first name last name | fill in: email | fill in: demo title |
+**If you're interested in presenting a demo**, please fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9). The form will close on December 1, 2019.
 
 
 ## ❓Frequently Asked Questions
@@ -100,10 +75,10 @@ Yes, please come by during our hours of operation (see schedule above) and we wi
 We (the volunteers) also ❤️coding and are always looking to make new friends in the coding community. Please stop by and chat about coding amazingness with us.
 
 3. How do I sign-up to volunteer as a tutor at the Coding Help Desk? <br> <br>
-If you're interested in volunteering, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (2) your email, and (3) which coding language(s) you're comfortable with tutoring.
+If you're interested in volunteering, please fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9). The form will close on December 1, 2019 but you're welcome to stop by during code desk hours to help if you didn't sign up before that date.
 
 4. How do I sign-up to present a demo with the Coding Help Desk? <br> <br>
-If you're interested in presenting, you can either fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9) or, if you feel comfortable, submit a GitHub pull request with your edits to the sign-up table below. Make sure to fill in (1) your name, (3) your email, and (3) the title of your demo. Demos are scheduled to be 10 minutes long with 5 minutes for questions and transition. However, we're flexible and can coordinate with you if you'd like a longer time slot.
+If you're interested in presenting a demo, please fill out [this Goolge form](https://forms.gle/dUSD39i9pUWw7vKs9). The form will close on December 1, 2019.
 
 5. I'm interested in helping to spread the word about the Coding Help Desk. How can I help with this? <br> <br>
 Please send an email to Sheila at ssaia at ncsu dot edu and let her know that you're interested in spreading the word about the Coding Help Desk. She'll send along a flier that you can share with others
