@@ -35,7 +35,7 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 
 | Day | Time | Location | Presenter | Demo Title | Number of Attendees |
 | --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Sam Zipper | Code Organization | # |
+| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Sam Zipper | Organizing Data and Code for Reproducibility | # |
 | Tues, Dec 10 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Lise Montefiore | Basic GIS in R | # |
 | Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Natalie Nelson | Publication-ready Graphics with ggplot2 | # |
 | Weds, Dec 11 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Jianghao Wang | Creating Interactive Documents with MATLAB Live Scripts | # |
