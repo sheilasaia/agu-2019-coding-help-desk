@@ -40,7 +40,7 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 | Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Natalie Nelson | Publication-ready Graphics with ggplot2 | # |
 | Weds, Dec 11 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Jianghao Wang | Creating Interactive Documents with MATLAB Live Scripts | # |
 | Thur, Dec 12 | 12-12:10pm | Career Center Theater Moscone South LL 5-6 | Aycan Hacioglu | Creating Interactive Documents with MATLAB Live Scripts | # |
-| Thur, Dec 12 | 12:15-12:25pm | Career Center Theater Moscone South LL 5-6 | TBD | TBD | # |
+| Thur, Dec 12 | 12:15-12:25pm | Career Center Theater Moscone South LL 5-6 | Vinit Sehgal | Spatial Data Visualization in R | # |
 
 ## 🙌 Partners
 
