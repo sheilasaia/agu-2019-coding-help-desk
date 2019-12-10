@@ -21,26 +21,41 @@ Please contact Sheila Saia at ssaia at ncsu dot edu if you have any questions, c
 
 Stop by to ask our volunteers for help with your code or for more information on coding best practices.
 
-| Day | Time | Location | Volunteers | Coding Help Available | Number of Attendees |
-| --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | Sam Zipper, Maria Elena Orduña Alegria, Sheila Saia | GAMA, Netlogo, Python, R | # |
-| Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | Sharad Kumar Gupta, Justine Neville, Colin Smith, Melinda Martinez | MATLAB, Python, R | # |
-| Weds, Dec 11 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Emine Fidan, Heather Kropp, Danica Schaffer-Smith | R, Google Earth Engine Javascript API | # |
-| Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | Joe Shannon, Chinmay Deval, Xiangmin (Sam) | BASH, Python, R | # |
-| Thur, Dec 12 | 1pm-2:30pm | Exhibit Hall Booth #1329 (ESIP) | Kathe Todd-Brown, Lise Montefiore, Sadegh Sadeghi-Tabas, Jeanette Clark | MATLAB, R | # |
+| Day | Time | Location | Volunteers | Coding Help Available |
+| --- | --- | --- | --- | --- |
+| Tues, Dec 10 | 10am-12pm | Career Center Moscone South LL 5-6 | Sam Zipper, Maria Elena Orduña Alegria, Sheila Saia | GAMA, Netlogo, Python, R |
+| Weds, Dec 11 | 10am-12pm | Career Center Moscone South LL 5-6 | Sharad Kumar Gupta, Justine Neville, Colin Smith, Melinda Martinez | MATLAB, Python, R |
+| Weds, Dec 11 | 1pm-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Emine Fidan, Heather Kropp, Danica Schaffer-Smith | R, Google Earth Engine Javascript API |
+| Thur, Dec 12 | 10am-12pm | Career Center Moscone South LL 5-6 | Joe Shannon, Chinmay Deval, Xiangmin (Sam) | BASH, Python, R |
+| Thur, Dec 12 | 1pm-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Kathe Todd-Brown, Lise Montefiore, Sadegh Sadeghi-Tabas, Jeanette Clark | MATLAB, R |
 
 #### Demos
 
 Besides getting help at the Coding Help Desk, AGU attendees are welcome to attend short (10 minute) demonstrations (i.e., "demos") presented by their peers. This is a great way to learn about new coding tools and best practices.
 
-| Day | Time | Location | Presenter | Demo Title | Number of Attendees |
-| --- | --- | --- | --- | --- | --- |
-| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Sam Zipper | Organizing Data and Code for Reproducibility | # |
-| Tues, Dec 10 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Lise Montefiore | Basic GIS in R | # |
-| Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Natalie Nelson | Publication-ready Graphics with ggplot2 | # |
-| Weds, Dec 11 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Jianghao Wang | Creating Interactive Documents with MATLAB Live Scripts | # |
-| Thur, Dec 12 | 12-12:10pm | Career Center Theater Moscone South LL 5-6 | Aycan Hacioglu | Creating Interactive Documents with MATLAB Live Scripts | # |
-| Thur, Dec 12 | 12:15-12:25pm | Career Center Theater Moscone South LL 5-6 | Vinit Sehgal | Spatial Data Visualization in R | # |
+| Day | Time | Location | Presenter | Demo Title |
+| --- | --- | --- | --- | --- |
+| Tues, Dec 10 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Sam Zipper | Organizing Data and Code for Reproducibility |
+| Tues, Dec 10 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Lise Montefiore | Basic GIS in R |
+| Weds, Dec 11 | 9:30-9:40am | Career Center Theater Moscone South LL 5-6 | Natalie Nelson | Publication-ready Graphics with ggplot2 |
+| Weds, Dec 11 | 9:45-9:55am | Career Center Theater Moscone South LL 5-6 | Jianghao Wang | Creating Interactive Documents with MATLAB Live Scripts |
+| Thur, Dec 12 | 12-12:10pm | Career Center Theater Moscone South LL 5-6 | Aycan Hacioglu | Creating Interactive Documents with MATLAB Live Scripts |
+| Thur, Dec 12 | 12:15-12:25pm | Career Center Theater Moscone South LL 5-6 | Vinit Sehgal | Spatial Data Visualization in R |
+
+#### Attendance
+
+| Day | Time | Location | Activity | Number of People |
+| --- | --- | --- | --- | --- |
+| Tues, Dec 10 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | 26 |
+| Tues, Dec 10 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 7 |
+| Weds, Dec 11 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | # |
+| Weds, Dec 11 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | # |
+| Weds, Dec 11 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | # |
+| Thur, Dec 12 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | # |
+| Thur, Dec 12 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | # |
+| Thur, Dec 12 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | # |
+
+
 
 ## 🙌 Partners
 
