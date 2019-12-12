@@ -47,9 +47,9 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 | Day | Time | Location | Activity | Number of People |
 | --- | --- | --- | --- | --- |
 | Tues, Dec 10 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | 26 |
-| Tues, Dec 10 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 7 |
-| Weds, Dec 11 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | # |
-| Weds, Dec 11 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | # |
+| Tues, Dec 10 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 9 |
+| Weds, Dec 11 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | 30 |
+| Weds, Dec 11 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 4 |
 | Weds, Dec 11 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | # |
 | Thur, Dec 12 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | # |
 | Thur, Dec 12 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | # |
@@ -105,3 +105,8 @@ The AGU 2018 Fall Meeting in Washington, DC marked the first year of the Coding 
 Some of us might be comfortable answering these questions but a better bet is for you to visit our friends over at [Earth Science Information Partners (ESIP)](https://www.esipfed.org/) or MATLAB (AGU 2019 Exhibitor Hall Booth #1325)! ESIP is hosting a Data Help Desk at AGU 2019. They'll offer one-on-one data management help as well as data management and literacy workshops that are open to all AGU attendees. To learn more about the Data Help Desk, please visit [this site](https://copdess.org/data-fairs/2019-data-fair-at-agu-fall-meeting/). MATLAB expert, [Loren Shure](https://blogs.mathworks.com/loren/), will also be helping with data access and management at the MATLAB booth (AGU 2019 Exhibitor Hall Booth #1325), which is right next to the ESIP booth.
 
 8. (Anything we forgot? Please submit a GitHub pull request or email Sheila at ssaia at ncsu dot edu to add another FAQ.)
+
+
+## 2020 Ideas
+
+1. More demos!
