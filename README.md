@@ -50,10 +50,10 @@ Besides getting help at the Coding Help Desk, AGU attendees are welcome to atten
 | Tues, Dec 10 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 9 |
 | Weds, Dec 11 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | 30 |
 | Weds, Dec 11 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 5 |
-| Weds, Dec 11 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | # |
+| Weds, Dec 11 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | 1 |
 | Thur, Dec 12 | 10am-12pm | Career Center Theater Moscone South LL 5-6 | Coding Help Desk | 10 |
 | Thur, Dec 12 | 9:30-10am | Career Center Theater Moscone South LL 5-6 | Demos | 20 |
-| Thur, Dec 12 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | # |
+| Thur, Dec 12 | 1-2:30pm | Moscone North Exhibit Hall Booth #1329 (ESIP) | Coding Help Desk | 4 |
 
 
 
