@@ -109,4 +109,6 @@ Some of us might be comfortable answering these questions but a better bet is fo
 
 ## 2020 Ideas
 
-1. More demos!
+1. More demos! That is, have a longer demo time slot. We only had 30 minutes this year (two demos in 30 minutes).
+2. Reach out to other organizations for collaboration/demos: [USGS Data Viz Lab](https://owi.usgs.gov/vizlab/), [NEON](https://www.neonscience.org/), [pyOpenSci](https://www.pyopensci.org/), [pangeo](https://github.com/pangeo-data/pangeo), and [Earth Lab](https://www.colorado.edu/earthlab/), [QubesHub](https://qubeshub.org/community/groups/edsin/), local R-Users and R-Ladies groups, and others (?).
+3. Coordinate with Megan Carter from the ESIP Data Help Desk next year.
